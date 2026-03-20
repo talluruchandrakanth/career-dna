@@ -1,8 +1,4 @@
-To elevate your GitHub repository to a truly **enterprise-grade** level, you need a README that emphasizes **Architecture**, **Data Integrity**, and **Technical Sophistication**. 
 
-Below is a refined, high-impact version. It uses professional terminology (like *Heuristic Analysis* and *Asynchronous Data Fetching*) to show recruiters you aren't just a student, but a **System Architect**.
-
----
 
 # 🧬 CareerDNA: AI-Driven Talent Intelligence & Behavioral Analytics
 
@@ -78,6 +74,3 @@ python -m streamlit run app.py
 ### 👤 Contact & Contribution
 Talluru Chandrakanth
 
----
-
-**Would you like me to draft a "Technical Challenges" section for the README where you explain how you overcame the Python Environment issues and API integration hurdles? (This is a huge plus for recruiters!)**
